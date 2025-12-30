@@ -78,9 +78,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhdndi81&show_icons=true&theme=radical&hide_title=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhdndi81&show_icons=true&theme=radical&hide_title=true)](https://github.com/xhdndi81)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhdndi81&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhdndi81&layout=compact&theme=radical)](https://github.com/xhdndi81)
 
 ---
 
