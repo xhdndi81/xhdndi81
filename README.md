@@ -76,14 +76,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhdndi81&show_icons=true&theme=radical&hide_title=true)](https://github.com/xhdndi81)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhdndi81&layout=compact&theme=radical)](https://github.com/xhdndi81)
-
----
-
 ## 🔥 주요 역량
 
 - ✅ **19년 5개월** 백엔드/서버개발 경력
@@ -93,4 +85,30 @@
 - ✅ **MES 시스템** 개발 전문성
 - ✅ **풀스택 개발** 능력 (Frontend & Backend)
 
+---
+
+## 📫 연락처
+
+- 📧 Email: [이메일 주소]
+- 💼 LinkedIn: [LinkedIn 프로필]
+- 🌐 Blog: [블로그 주소]
+
+---
+
+## 💡 관심사
+
+- 백엔드 아키텍처 설계
+- 시스템 성능 최적화
+- 프로젝트 관리 방법론
+- 최신 기술 트렌드 학습
+
+---
+
+<div align="center">
+
+**"안정적이고 확장 가능한 시스템을 구축하는 것이 제 목표입니다."**
+
+Made with ❤️ by 김경식
+
+</div>
 
