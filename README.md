@@ -46,6 +46,14 @@
 - **포스코케미칼 사규관리시스템 구축** - Java / 전자정부프레임워크 / PostgreSQL (PM, 개발)
 - **휴비즈ICT 홈페이지 챗봇 시스템** - Java / 전자정부프레임워크 / Ollama / OpenAI / MariaDB (개발) - [사이트](https://hubizict.com/)
 - **경북연구장비정보시스템** - Java / 전자정부프레임워크 / MariaDB (PM, 개발) - [사이트](https://gbrems.gbtp.or.kr/)
+- **포스코휴먼스 아트 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://posart.poscohumans.com/)
+- **포스코휴먼스 리포트 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://report.poscohumans.com/)
+- **경주시 평생학습가족관 시스템** - Java / 전자정부프레임워크 / MariaDB (PM, 개발) - [사이트](https://www.gyeongju.go.kr/gjlll/main/index.html)
+- **P-NR 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://p-nr.com/index.do)
+- **포스코 MCM 사이버 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://cyber.poscomcm.com:8443/)
+- **포항산업과학연구원(RIST) 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://www.rist.re.kr/ko/main/index.do)
+- **대구비즈니스 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://dgbiz.kr/ko/main/index.do)
+- **GBRC 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://gbrc.gepa.kr/)
 
 ### 대규모 프로젝트
 - **포항영일만신항 eTOS 및 홈페이지 전산 개발** - Java / Spring / Oracle (PM, 개발) - [사이트](http://www.pohangport.com/kr/main.do)
