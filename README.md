@@ -39,17 +39,18 @@
 
 ### 최근 프로젝트 (2023-2025)
 - **포항문화재단 홈페이지 리뉴얼** - Java / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://phcf.or.kr/)
-- **포스코퓨처엠 양극재 AI분석 PILOT시스템 구축** - Java / Spring / PostgreSQL / Oracle (개발) - [사이트](https://www.poscofuturem.com/)
-- **포스코스틸리온 모바일iHR시스템 구축** - Java / Android / iOS / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://www.posco-steelion.com/)
-- **경북테크노파크 기업성장지원 시스템 고도화** - Java / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://www.gbtp.or.kr/)
-- **포스코케미칼 우리사주시스템 개발** - Java / GlueFramework / Nexacro / Oracle (PM, 개발) - [사이트](https://www.poscochem.com/)
-- **포스코케미칼 사규관리시스템 구축** - Java / 전자정부프레임워크 / PostgreSQL (PM, 개발) - [사이트](https://www.poscochem.com/)
+- **포스코퓨처엠 양극재 AI분석 PILOT시스템 구축** - Java / Spring / PostgreSQL / Oracle (개발)
+- **포스코스틸리온 모바일iHR시스템 구축** - Java / Android / iOS / 전자정부프레임워크 / MariaDB (PM)
+- **경북테크노파크 기업성장지원 시스템 고도화** - Java / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://smart.gbtp.or.kr/login)
+- **포스코케미칼 우리사주시스템 개발** - Java / GlueFramework / Nexacro / Oracle (PM, 개발)
+- **포스코케미칼 사규관리시스템 구축** - Java / 전자정부프레임워크 / PostgreSQL (PM, 개발)
 - **휴비즈ICT 홈페이지 챗봇 시스템** - Java / 전자정부프레임워크 / Ollama / OpenAI / MariaDB (개발) - [사이트](https://hubizict.com/)
+- **경북연구장비정보시스템** - Java / 전자정부프레임워크 / MariaDB (PM, 개발) - [사이트](https://gbrems.gbtp.or.kr/)
 
 ### 대규모 프로젝트
-- **포항영일만신항 eTOS 및 홈페이지 전산 개발** - Java / Spring / Oracle (PM, 개발) - [사이트](https://www.yongilman.or.kr/)
-- **경북SW융합클러스터2.0 공통활용 SW융합 플랫폼 구축** - Node.js / MariaDB (PM, 개발) - [사이트](https://www.gbsw.or.kr/)
-- **포스코 광양 후판 스마트팩토리 포털 개발** - Java / GlueFramework / PostgreSQL (개발) - [사이트](https://www.posco.com/)
+- **포항영일만신항 eTOS 및 홈페이지 전산 개발** - Java / Spring / Oracle (PM, 개발) - [사이트](http://www.pohangport.com/kr/main.do)
+- **경북SW융합클러스터2.0 공통활용 SW융합 플랫폼 구축** - Node.js / MariaDB (PM, 개발)
+- **포스코 광양 후판 스마트팩토리 포털 개발** - Java / GlueFramework / PostgreSQL (개발)
 - **스마트공장 구축지원 사업** - Java / 전자정부프레임워크 / MySQL (PM, 개발)
 
 ---
