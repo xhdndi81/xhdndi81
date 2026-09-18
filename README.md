@@ -6,6 +6,8 @@
 
 전자정부프레임워크 기반 공공기관 웹 시스템과 MES 구축에 특화되어 있으며, Java 기반의 안정적이고 확장 가능한 시스템 설계에 강점이 있습니다. 프로젝트 관리자(PM)로서 포스코휴먼스 PosART MES, 창원문화재단 웹진, 포항문화포털, 경북테크노파크 통계관리 등 공공·대기업 프로젝트를 수행해왔습니다.
 
+최근에는 **생성형 AI 챗봇**, **온프레미스 LLM(Ollama/RAG)**, **SimLink AI** 현장 데이터 연동, **AX 기반 시험·보고 자동화** 등 AI 프로젝트를 이어서 진행하고 있습니다.
+
 ---
 
 ## 🛠️ 기술 스택
@@ -34,6 +36,14 @@
 - MES 시스템 개발
 - 공공클라우드 / 예약·통계·웹진 플랫폼
 
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+- 생성형 AI 챗봇 (API 연동 / 온프레미스 LLM)
+- RAG 기반 사내 문서·DB 질의
+- SimLink AI · HiBridge (온프레미스, GS 1등급)
+- AX 기반 시험데이터 처리·보고 자동화
+
 ---
 
 ## 📊 주요 프로젝트 경험
@@ -48,9 +58,17 @@
 
 ### 진행 중 (2026)
 - **경북테크노파크 데이터 기반 통계관리 시스템 신규 서비스 개발**
+- **RIST AX 기반 시험데이터 처리 및 보고 자동화** (RITAS 연계)
 - **포항제철소 에너지 원단위 예측 및 공유 프로그램** (RIST)
 - **포스코 설비기술부 CMS WebViewer 시스템**
 - **친환경소재신기술연구조합 홈페이지 개편**
+- **SimLink AI** 도메인 적용·확산 (공공·제조·철강, KIOST 운영)
+
+### AI 관련 수행
+- **휴비즈ICT 생성형 AI 챗봇** - OpenAI / Ollama / RAG / 온프레미스 LLM (개발) - [사이트](https://hubizict.com/)
+- **포스코퓨처엠 양극재 AI분석 PILOT시스템 구축** - Java / Spring / PostgreSQL / Oracle (개발)
+- **SimLink AI · HiBridge** - 현장 데이터 연동, 디지털 트윈, 온프레미스 AI 플랫폼 (GS 1등급)
+- **RIST AX 기반 시험데이터 처리 및 보고 자동화** - 시험데이터 연계·보고 자동화 (진행 중)
 
 ### 주요 수행 프로젝트
 - **포항문화재단 홈페이지 리뉴얼** - Java / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://phcf.or.kr/)
@@ -59,7 +77,7 @@
 - **경북테크노파크 기업성장지원 시스템 고도화** - Java / 전자정부프레임워크 / MariaDB (PM) - [사이트](https://smart.gbtp.or.kr/login)
 - **포스코케미칼 우리사주시스템 개발** - Java / GlueFramework / Nexacro / Oracle (PM, 개발)
 - **포스코케미칼 사규관리시스템 구축** - Java / 전자정부프레임워크 / PostgreSQL (PM, 개발)
-- **휴비즈ICT 홈페이지 챗봇 시스템** - Java / 전자정부프레임워크 / Ollama / OpenAI / MariaDB (개발) - [사이트](https://hubizict.com/)
+- **휴비즈ICT 홈페이지 챗봇 시스템** - Java / 전자정부프레임워크 / Ollama / OpenAI / RAG / MariaDB (개발) - [사이트](https://hubizict.com/)
 - **경북연구장비정보시스템** - Java / 전자정부프레임워크 / MariaDB (PM, 개발) - [사이트](https://gbrems.gbtp.or.kr/)
 - **포스코휴먼스 포스아트 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://posart.poscohumans.com/)
 - **포스코휴먼스 신고 시스템** - Java / 전자정부프레임워크 / MariaDB (개발) - [사이트](https://report.poscohumans.com/)
@@ -97,7 +115,7 @@
 ### (주)휴비즈아이씨티 | 비즈니스사업실 실장
 **2015.12 ~ 현재 재직 중 (10년 8개월)** · SW특급기술자
 
-전자정부프레임워크를 활용한 공공기관 웹 시스템 및 MES 시스템 개발을 담당하고 있습니다. 프로젝트 관리자(PM)로서 포스코 그룹, 창원문화재단, 경북테크노파크, RIST 등 공공·대기업 프로젝트를 수행하며 Java, 전자정부프레임워크, Oracle, MySQL, PostgreSQL, MariaDB, Node.js를 활용한 구축·고도화 경험을 쌓아왔습니다.
+전자정부프레임워크를 활용한 공공기관 웹 시스템 및 MES 시스템 개발을 담당하고 있습니다. 프로젝트 관리자(PM)로서 포스코 그룹, 창원문화재단, 경북테크노파크, RIST 등 공공·대기업 프로젝트를 수행하며 Java, 전자정부프레임워크, Oracle, MySQL, PostgreSQL, MariaDB, Node.js를 활용한 구축·고도화 경험을 쌓아왔습니다. 최근에는 생성형 AI 챗봇, 온프레미스 LLM, SimLink AI, AX 자동화 등 현장 적용형 AI 과제도 함께 추진하고 있습니다.
 
 ---
 
@@ -109,6 +127,8 @@
 - ✅ **프로젝트 관리자(PM)** 경험
 - ✅ **공공기관 및 대기업** 프로젝트 다수 수행
 - ✅ **MES / 통계·예약·웹진 플랫폼** 구축 경험
+- ✅ **생성형 AI 챗봇 · 온프레미스 LLM/RAG** 구축 경험
+- ✅ **SimLink AI / AX 자동화** 현장 적용
 - ✅ **풀스택 개발** 능력 (Frontend & Backend)
 
 ---
@@ -123,8 +143,9 @@
 
 - 백엔드 아키텍처 설계
 - 시스템 성능 최적화
+- 생성형 AI와 기간계 시스템 연동
+- 온프레미스 LLM / RAG 도입
 - 프로젝트 관리 방법론
-- 최신 기술 트렌드 학습
 
 ---
 
